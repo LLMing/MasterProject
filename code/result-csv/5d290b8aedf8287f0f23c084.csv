@@ -1,0 +1,3 @@
+"code","message","type","context","selector"
+"WCAG2AAA.Principle2.Guideline2_4.2_4_2.H25.1.EmptyTitle","The title element in the head section should be non-empty.","error","<title></title>","html > head > title"
+"WCAG2AAA.Principle3.Guideline3_1.3_1_1.H57.2","The html element should have a lang or xml:lang attribute which describes the language of the document.","error","<html data-adblockkey=\"MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_pYoVDTYOK8Xbc6JQesX4GOfWVQmqfJN4j7+CxOmYn5LfgaJ+SganVcy4+Ahc9YQGmP7OG568LsD4bAxvkKPr8Q==\"><head><m...","html"

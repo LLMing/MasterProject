@@ -1,0 +1,5 @@
+"code","message","type","context","selector"
+"WCAG2AAA.Principle2.Guideline2_4.2_4_2.H25.2","Check that the title element describes the document.","notice","<title>404 - File or directory not fou...</title>","html > head > title"
+"WCAG2AAA.Principle3.Guideline3_1.3_1_1.H57.2","The html element should have a lang or xml:lang attribute which describes the language of the document.","error","<html xmlns=\"http://www.w3.org/1999/xhtml\"><head>\n<meta http-equiv=\"Conten...</html>","html"
+"WCAG2AAA.Principle4.Guideline4_1.4_1_2.H91.Fieldset.Name","This fieldset element does not have a name available to an accessibility API. Valid names are: legend element, aria-label attribute, aria-labelledby attribute.","error","<fieldset>\n  <h2>404 - File or directory ...</fieldset>","#content > div > fieldset"
+"WCAG2AAA.Principle1.Guideline1_3.1_3_1.H71.NoLegend","Fieldset does not contain a legend element. All fieldsets should contain a legend element that describes a description of the field group.","error","<fieldset>\n  <h2>404 - File or directory ...</fieldset>","#content > div > fieldset"

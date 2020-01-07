@@ -1,0 +1,6 @@
+"code","message","type","context","selector"
+"WCAG2AAA.Principle2.Guideline2_4.2_4_2.H25.2","Check that the title element describes the document.","notice","<title>Site Maintenance</title>","html > head > title"
+"WCAG2AAA.Principle3.Guideline3_1.3_1_1.H57.2","The html element should have a lang or xml:lang attribute which describes the language of the document.","error","<html><head>\n    <title>Site Maintena...</html>","html"
+"WCAG2AAA.Principle1.Guideline1_3.1_3_1_AAA.G141","The heading structure is not logically nested. This h3 element should be an h2 to be properly nested.","error","<h3>\n                Moor Green Lan...</h3>","html > body > article > div > h3"
+"WCAG2AAA.Principle1.Guideline1_3.1_3_1.H48.2","This content looks like it is simulating an ordered list using plain text. If so, marking up this content with an ol element would add proper structure information to the document.","warning","<p>\n                <span id=\"ltAd...</p>","html > body > article > div > p:nth-child(3)"
+"WCAG2AAA.Principle2.Guideline2_4.2_4_9.H30","Check that text of the link describes the purpose of the link.","notice","<a href=\"tel:01214110393\">0121 411 0393</a>","html > body > article > div > a"

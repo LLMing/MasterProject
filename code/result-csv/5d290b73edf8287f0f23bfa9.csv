@@ -1,0 +1,4 @@
+"code","message","type","context","selector"
+"WCAG2AAA.Principle2.Guideline2_4.2_4_2.H25.2","Check that the title element describes the document.","notice","<title>Thorney and Eye Medical Practic...</title>","html > head > title"
+"WCAG2AAA.Principle3.Guideline3_1.3_1_1.H57.2","The html element should have a lang or xml:lang attribute which describes the language of the document.","error","<html><head>\n<meta http-equiv=\"Conten...</html>","html"
+"WCAG2AAA.Principle2.Guideline2_4.2_4_9.H30","Check that text of the link describes the purpose of the link.","notice","<a href=\"https://www.octagonmedicalpractice.co.uk/\">\nclick here</a>","html > body > a"

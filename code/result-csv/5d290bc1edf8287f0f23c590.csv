@@ -1,0 +1,6 @@
+"code","message","type","context","selector"
+"WCAG2AAA.Principle2.Guideline2_4.2_4_2.H25.2","Check that the title element describes the document.","notice","<title>403 Forbidden</title>","html > head > title"
+"WCAG2AAA.Principle3.Guideline3_1.3_1_1.H57.2","The html element should have a lang or xml:lang attribute which describes the language of the document.","error","<html><head><title>403 Forbidden</tit...</html>","html"
+"WCAG2AAA.Principle1.Guideline1_4.1_4_3_F24.F24.BGColour","Check that this element has an inherited foreground colour to complement the corresponding inline background colour or image.","warning","<body bgcolor=\"white\">\n<center><h1>403 Forbidden</h1>...</body>","html > body"
+"WCAG2AAA.Principle1.Guideline1_3.1_3_1.H49.Center","Semantic markup should be used to mark emphasised or special text so that it can be programmatically determined.","warning","<center><h1>403 Forbidden</h1></center>","html > body > center:nth-child(1)"
+"WCAG2AAA.Principle1.Guideline1_3.1_3_1.H49.Center","Semantic markup should be used to mark emphasised or special text so that it can be programmatically determined.","warning","<center>nginx</center>","html > body > center:nth-child(3)"
